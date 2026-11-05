@@ -120,4 +120,4 @@ vary slightly across runs (typically within ±0.5%).
 ## Contact
 
 For questions or to request the trained model weights, please contact:
-**may.m.malsaidi@gmail.com**
+**U25102653@sharjah.ac.ae**
